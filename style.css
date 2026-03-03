@@ -10,6 +10,17 @@
     display: flex;
 }
  h1 {
-color:rgb(0, 179, 250)
-
+    color:rgb(0, 179, 250)
  }
+ h2 {
+    color:rgb(0, 179, 250)
+ }
+#perguntas_recentes {
+    display: flex;
+    justify-content: flex; 
+    width: 100%;               
+}
+#perguntas_recentes ul {
+    list-style: none;
+    text-align: right; 
+}
