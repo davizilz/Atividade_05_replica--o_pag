@@ -1,0 +1,11 @@
+#icon {
+    width: 150px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+#robozao {
+    display: flex;
+}
